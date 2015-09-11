@@ -1,0 +1,1 @@
+Ceci est une introduction, il faut bien lire ce fichier avant de commencer a utiliser les elements dans le dossier.
